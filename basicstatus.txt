@@ -1,0 +1,36 @@
+#!/bin/bash
+# A Basic System Status Script
+#by Ndubuisi "Jkid" Okeh
+#Run this command as follows: sh basicstatus
+
+echo Hello
+
+echo "Today is" 
+
+date
+
+echo "The Time is now"
+
+time
+
+echo "This machine's uptime is"
+
+uptime
+
+echo "People who are currently logged in are"
+
+who
+
+echo "Additional status of people logged in is as follows"
+
+w
+
+echo "You are identifyed as"
+
+id
+
+echo "The machine you are logged into is"
+
+uname
+
+echo "Have a great day!"
