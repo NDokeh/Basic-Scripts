@@ -1,0 +1,1 @@
+This is actually a basic script for linux systems for sysadmins. Check it out for me will you?
