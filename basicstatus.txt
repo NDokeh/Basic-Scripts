@@ -1,36 +1,53 @@
 #!/bin/bash
 # A Basic System Status Script
 #by Ndubuisi "Jkid" Okeh
+#Save this as "basicstatus.sh" or "basicstatus.txt"
 #Run this command as follows: sh basicstatus
 
 echo Hello
+
+sleep 3
 
 echo "Today is" 
 
 date
 
+sleep 3
+
 echo "The Time is now"
 
 time
+
+sleep 3
 
 echo "This machine's uptime is"
 
 uptime
 
+sleep 3
+
 echo "People who are currently logged in are"
 
 who
+
+sleep 3
 
 echo "Additional status of people logged in is as follows"
 
 w
 
+sleep 3
+
 echo "You are identifyed as"
 
 id
 
+sleep 3
+
 echo "The machine you are logged into is"
 
 uname
+
+sleep 3
 
 echo "Have a great day!"
