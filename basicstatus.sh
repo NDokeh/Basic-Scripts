@@ -5,10 +5,10 @@
 #Run this command as follows: sh basicstatus
 echo Hello
 sleep 3
-echo "Today's date and time is" 
+echo "Today date and time is" 
 date
 sleep 3
-echo "This machine's uptime is"
+echo "This machine uptime is"
 uptime
 sleep 3
 echo "People who are currently logged in are"
@@ -26,9 +26,9 @@ sleep 3
 echo "The machine you are logged into is"
 uname
 sleep 3
-echo "The machine's OS version is the following"
+echo "The machine OS version is the following"
 uname -a
-echo "The machine's disk status for each slice"
+echo "The machine disk status for each slice"
 sleep 3
 df
 echo "and the disk usage for each section"
