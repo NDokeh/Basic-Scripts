@@ -1,5 +1,5 @@
 #!/bin/bash
-# A Basic System Status Script
+#A Basic System Status Script
 #by Ndubuisi "Jkid" Okeh
 #Save this as "basicstatus.sh" or "basicstatus.txt"
 #Run this command as follows: sh basicstatus
