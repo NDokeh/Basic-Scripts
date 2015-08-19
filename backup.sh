@@ -6,4 +6,3 @@ cp /home/[insertfolders] /home/backups
 sleep 3
 gzip /home/backups/[insertfolders].old
 tar /home/backups/[insertfolders].old
-
