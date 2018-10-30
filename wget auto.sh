@@ -10,6 +10,6 @@ name.
 
 #I do not recommend doing more than 2 urls at a time.
 
-wget -m --convert-links --page-requisites --no-parent -q -O [website] -P ~/home/[username]/[websitename] >> [websitename].txt 2>&1 &
+wget -m --convert-links --page-requisites --no-parent -q -O [website] -P ~/home/[username]/websites/[websitename] >> [websitename].txt 2>&1 &
 
-wget -m --convert-links --page-requisites --no-parent -q -O [website] -P ~/home/[username]/[websitename] >> [websitename].txt 2>&1 &
+wget -m --convert-links --page-requisites --no-parent -q -O [website] -P ~/home/[username]/websites/[websitename] >> [websitename].txt 2>&1 &
