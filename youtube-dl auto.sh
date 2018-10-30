@@ -6,6 +6,6 @@
 
 #I do not recommend doing more than 4 urls at a time. 
 
-youtube-dl.sh https://www.youtube.com/[playlist or channel name url] -i>>[name of youtube url].txt 2>&1 &
+youtube-dl.sh https://www.youtube.com/[playlist or channel name url] -i -o>> "~/home/[username]/ytvideos/[playlist name]" >> [name of youtube url].txt 2>&1 &
 
-youtube-dl.sh https://www.youtube.com/[playlist or channel name url] -i>>[name of youtube url].txt 2>&1 &
+youtube-dl.sh https://www.youtube.com/[playlist or channel name url] -i -o>> "~/home/[username]/ytvideos/[playlist name]" >> [name of youtube url].txt 2>&1 &
